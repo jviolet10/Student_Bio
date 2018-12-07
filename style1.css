@@ -1,0 +1,24 @@
+
+.main-title {
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10%;
+    margin-left: -1%;
+
+    background-image: url("title-background.jpg");
+}
+
+.main-title h1 {
+    font-size: 50px;
+}
+
+.main-title h3 {
+    font-size: 30px;
+}
+
+.section1 {
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif
+}
